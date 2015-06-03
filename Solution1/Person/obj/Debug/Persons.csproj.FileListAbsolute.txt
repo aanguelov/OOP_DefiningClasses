@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\bin\Debug\Person.exe.config
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\bin\Debug\Person.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\bin\Debug\Person.pdb
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\obj\Debug\Person.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\Person\obj\Debug\Person.pdb

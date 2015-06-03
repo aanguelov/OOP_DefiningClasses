@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
