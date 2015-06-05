@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\bin\Debug\03.PC_Catalog.exe.config
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\bin\Debug\03.PC_Catalog.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\bin\Debug\03.PC_Catalog.pdb
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\obj\Debug\03.PC_Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\obj\Debug\03.PC_Catalog.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\Solution1\03.PC_Catalog\obj\Debug\03.PC_Catalog.pdb
