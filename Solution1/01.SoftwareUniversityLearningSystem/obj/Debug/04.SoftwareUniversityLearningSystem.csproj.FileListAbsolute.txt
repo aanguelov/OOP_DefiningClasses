@@ -1,0 +1,5 @@
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\OOP_DefiningClasses\Solution1\01.SoftwareUniversityLearningSystem\bin\Debug\01.SoftwareUniversityLearningSystem.exe.config
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\OOP_DefiningClasses\Solution1\01.SoftwareUniversityLearningSystem\bin\Debug\01.SoftwareUniversityLearningSystem.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\OOP_DefiningClasses\Solution1\01.SoftwareUniversityLearningSystem\bin\Debug\01.SoftwareUniversityLearningSystem.pdb
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\OOP_DefiningClasses\Solution1\01.SoftwareUniversityLearningSystem\obj\Debug\01.SoftwareUniversityLearningSystem.exe
+C:\Users\Laptop\Desktop\AdvancedC#ExamPractice\OOP_DefiningClasses\Solution1\01.SoftwareUniversityLearningSystem\obj\Debug\01.SoftwareUniversityLearningSystem.pdb
